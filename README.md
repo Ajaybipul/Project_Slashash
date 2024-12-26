@@ -126,6 +126,9 @@ The **Jokes App** is a web application that allows users to search for jokes, vi
 1. The time limit is callanges for this app.
 2. First time using the Mysql with the Nodejs that create little bit difficulty .
 
+---
+
+## Extra Features Can be added
 - **Styling**: Modify `styles/styles.css` for custom styles.
 - **API**: Replace the joke API endpoint in `scripts/app.js` if needed.
 - **Database**: Update database schema as required for additional features.
