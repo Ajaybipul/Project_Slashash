@@ -1,0 +1,19 @@
+body {
+    background-color: #FBE9E7;
+  }
+  
+  .card {
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    border: none;
+  }
+  
+  .card-body {
+    text-align: center;
+  }
+  
+  .btn-primary {
+    background-color: #ef2db8;
+    border-color: #ef2db8;
+  }
+  
+  
